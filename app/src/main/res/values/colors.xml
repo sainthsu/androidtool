@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="top_line" >#e60000</color>
+    <color name="second_line">#fe3a3c</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="slide_word_normal">#737172</color>
+    <color name="slide_word_selected">#f0130a</color>
+</resources>
